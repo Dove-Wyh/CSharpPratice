@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "剑指Offer022_链表中倒数第K个节点", "剑指Offer022_链表中倒数第K个节点\剑指Offer022_链表中倒数第K个节点.csproj", "{A8C18F8F-4ECB-4178-97D7-6B6E9DE06F06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剑指Offer022_链表中倒数第K个节点", "剑指Offer022_链表中倒数第K个节点\剑指Offer022_链表中倒数第K个节点.csproj", "{A8C18F8F-4ECB-4178-97D7-6B6E9DE06F06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode448_找到所有数组中消失的数字", "Leetcode448_找到所有数组中消失的数字\Leetcode448_找到所有数组中消失的数字.csproj", "{0AE71827-C06B-41CF-9851-30FFD1691F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode448_找到所有数组中消失的数字", "Leetcode448_找到所有数组中消失的数字\Leetcode448_找到所有数组中消失的数字.csproj", "{0AE71827-C06B-41CF-9851-30FFD1691F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 单例模式", "设计模式 单例模式\设计模式 单例模式.csproj", "{AE9B344E-7FB6-4F1F-A2AE-7A2E4B777C4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0AE71827-C06B-41CF-9851-30FFD1691F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE71827-C06B-41CF-9851-30FFD1691F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE71827-C06B-41CF-9851-30FFD1691F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9B344E-7FB6-4F1F-A2AE-7A2E4B777C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9B344E-7FB6-4F1F-A2AE-7A2E4B777C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9B344E-7FB6-4F1F-A2AE-7A2E4B777C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9B344E-7FB6-4F1F-A2AE-7A2E4B777C4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
